@@ -1,7 +1,7 @@
 # YouTube-Video-Downloader
 I made a YouTube video downloader using Python.
 
-I took reference from YouTuber developedbyed and all credits goes to him.
+I took reference from YouTuber developedbyed.
 
 Run this code in any IDE and the window to download will open. Paste the URL and hit download. This program only downloads the highest quality video.
 
