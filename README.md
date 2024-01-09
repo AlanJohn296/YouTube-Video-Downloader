@@ -1,12 +1,12 @@
 # YouTube-Video-Downloader
-I made a YouTube video downloader using Python which downloads the video in highest quality using the share link.
+This is a YouTube video downloader made using Python. To download the video in it's highest quality just use the share link.
 
-I took reference from YouTuber developedbyed to make this.
+To make this, I took reference from YouTuber developedbyed.
 
-Run this code in any IDE and the window to download will open. Paste the share link and hit download.
+Run this code in any IDE and the window to download the video will open. Paste the share link and hit download.
 
-Before running the program make sure you got all the modules installed. The Modules used are Tkinter, customtkinter and pytube.
-The program will not work if the modules used are not installed.
+Before running the program make sure you got all the Python modules installed. The Modules to download are Tkinter, customtkinter and pytube.
+Note: The program will not run if the above modules are not installed.
 
 To install tkinter module, type this command in your terminal.
 -> **pip install tk**
@@ -22,3 +22,5 @@ Also install customkinter & pytube. Type these following commands in your termin
 -> **pip install customtkinter**
 
 -> **pip install pytube**
+
+After all modules are installed go ahead and run the program to download youtube videos.
