@@ -1,26 +1,31 @@
-# YouTube-Video-Downloader
-This is a YouTube video downloader made using Python. To download the video in it's highest quality just use the share link.
+# YouTube Video Downloader
 
-To make this, I took reference from YouTuber developedbyed.
+This repository hosts a YouTube video downloader implemented in Python, allowing users to obtain videos in their highest available quality directly from the platform. The downloader is designed to be user-friendly and efficient.
 
-Run this code in any IDE and the window to download the video will open. Paste the share link and hit download.
+Inspired by the work of YouTuber developedbyed, this project aims to provide a seamless experience for users seeking to download YouTube videos effortlessly.
 
-Before running the program make sure you got all the Python modules installed. The Modules to download are Tkinter, customtkinter and pytube.
-Note: The program will not run if the above modules are not installed.
+## Usage
 
-To install tkinter module, type this command in your terminal.
--> **pip install tk**
+To utilize this downloader, simply execute the code in any compatible Integrated Development Environment (IDE). Upon running the code, a window interface will prompt the user to input the share link of the desired YouTube video. After providing the link, the user can initiate the download process with a simple click.
 
-**NOTE**: Tkinter module will not work as intended on few Linux distros. Use these commands if you encounter any problems related to tkinter module.
+However, before running the program, it is essential to ensure that all required Python modules are installed. The following modules are necessary for the program to function properly: 
 
--> **sudo apt-get install python3-tk (for Linux distros based on Ubuntu)**
+Tkinter, customtkinter, and pytube.
 
--> **sudo pacman -S tk (for Linux distros based on Arch)**
+To install the necessary modules, use the following commands in your terminal:
 
-Also install customkinter & pytube. Type these following commands in your terminal.
+pip install tk
 
--> **pip install customtkinter**
+pip install customtkinter
 
--> **pip install pytube**
+pip install pytube
 
-After all modules are installed go ahead and run the program to download youtube videos.
+It is important to note that the Tkinter module may encounter compatibility issues on certain Linux distributions. In such cases, please refer to the appropriate commands below:
+
+- For Linux distributions based on Ubuntu:
+
+  sudo apt-get install python3-tk
+
+- For Linux distributions based on Arch:
+  
+  sudo pacman -S tk
