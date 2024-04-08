@@ -14,11 +14,11 @@ However, before running the program, it is essential to ensure that all required
 
 To install the necessary modules, use the following commands in your terminal:
 
-**pip install tk**
+`pip install tkinter`
 
-**pip install customtkinter**
+`pip install customtkinter`
 
-**pip install pytube**
+`pip install pytube`
 
 It is important to note that the Tkinter module may encounter compatibility issues on certain Linux distributions. In such cases, please refer to the appropriate commands below:
 
