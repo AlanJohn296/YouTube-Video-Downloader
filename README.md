@@ -14,7 +14,7 @@ However, before running the program, it is essential to ensure that all required
 
 To install the necessary modules, use the following commands in your terminal:
 
-`pip install tkinter`
+`pip install tk`
 
 `pip install customtkinter`
 
