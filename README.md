@@ -10,22 +10,22 @@ To utilize this downloader, simply execute the code in any compatible Integrated
 
 However, before running the program, it is essential to ensure that all required Python modules are installed. The following modules are necessary for the program to function properly: 
 
-Tkinter, customtkinter, and pytube.
+**Tkinter, customtkinter, and pytube.**
 
 To install the necessary modules, use the following commands in your terminal:
 
-pip install tk
+**pip install tk**
 
-pip install customtkinter
+**pip install customtkinter**
 
-pip install pytube
+**pip install pytube**
 
 It is important to note that the Tkinter module may encounter compatibility issues on certain Linux distributions. In such cases, please refer to the appropriate commands below:
 
 - For Linux distributions based on Ubuntu:
 
-  sudo apt-get install python3-tk
+  **sudo apt-get install python3-tk**
 
 - For Linux distributions based on Arch:
   
-  sudo pacman -S tk
+  **sudo pacman -S tk**
